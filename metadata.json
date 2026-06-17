@@ -1,0 +1,6 @@
+{
+  "name": "Lumiere Editorial",
+  "description": "High-fashion minimalist design system and e-commerce experience for LUMIÈRE catalog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
